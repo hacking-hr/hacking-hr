@@ -62,8 +62,10 @@ Startup HRの活動ハックする!
 
 - メディア全方位戦は総力戦だった
   - by 畑中五月@Repro
+
 - Wantedly本格運用1年で長期インターンが5人から30人になった話
   - by 小林@dip
+
 - エンジニア採用担当者が考える、負けないためのMedia戦
   - by 猪飼直史@Gunosy
 
@@ -73,8 +75,9 @@ Startup HRの活動ハックする!
 
 - Greenの成功企業に見る2018年後半採用成功の秘訣
   - by 平井雅史@アトラエ
+
 - TBD
-  - by 佐藤太亮@wantedly
+  - by 佐藤太亮@Wantedly
 
 ---
 
