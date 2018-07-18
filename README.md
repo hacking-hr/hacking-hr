@@ -11,6 +11,4 @@
 
 # Meetups
 
-1. Hack Recruiting Media!
-    - [README](/meetups/1/README.md) / [PITCH](https://gitpitch.com/threetreeslight/hacking-hr/master?&p=meetups/1)
-
+1. [README](/meetups/1/README.md) / [PITCH](https://gitpitch.com/hacking-hr/hacking-hr/master?&p=meetups/1)
