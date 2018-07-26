@@ -1,6 +1,6 @@
 ## Hacking HR! #1
 
-![](/assets/images/hacking-hr-banner.png)
+![](/assets/images/banner-660_270.png)
 
 HashTag: #hackinghrs
 

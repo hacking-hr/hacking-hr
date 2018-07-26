@@ -1,6 +1,6 @@
 # Hacking HR!
 
-![](/assets/images/hacking-hr-banner-wide.png)
+![](/assets/images/banner-960_180.png)
 
 スタートアップにおける人事担当者のロールは多岐にわたります。 採用から労務・総務、果ては経理、営業事務に渡るまで幅広いものです。 
 
@@ -9,6 +9,7 @@
 
 そのため、Hacking HR! ではスタートアップにおける人事担当者の活動をハックし、tipsを共有・ディスカッションするとともに、明日も元気に一歩前進できるようにすることを目的としています。
 
-# Meetups
+## Meetups
 
 1. [README](/meetups/1/README.md) / [PITCH](https://gitpitch.com/hacking-hr/hacking-hr/master?&p=meetups/1)
+1. [README](/meetups/2/README.md) / [PITCH](https://gitpitch.com/hacking-hr/hacking-hr/master?&p=meetups/2)
