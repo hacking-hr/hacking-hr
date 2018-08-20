@@ -4,8 +4,6 @@
 
 HashTag: #hackinghrs
 
-on 2018-08-26
-
 ---
 
 ## What's Hacking HR! ?
@@ -35,7 +33,7 @@ tipsを共有・ディスカッションするミートアップです
 
 ---
 
-## サバイブしたい主催者たち
+## サバイブしたい主催者
 
 h-satsukiy | threetreeslight | AyaShibaki | ksk1030
 --- | --- | --- | ---
@@ -60,12 +58,9 @@ h-satsukiy | threetreeslight | AyaShibaki | ksk1030
 
 ---
 
-## Theme: Recruiting Media!
+## 実録！採用業務の失敗談
 
-- 何を使えばよいのか？
-- どう使うのが良いのか？
-- 使ってみたけど成果が出なかったのなぜ？
-- など
+多大な時間を費やしてやっとひねり出した採用施策が、思いもよらぬ悲劇を。。。
 
 ---
 
@@ -78,13 +73,26 @@ h-satsukiy | threetreeslight | AyaShibaki | ksk1030
 20:30 | LT4~5
 20:50 | まとめ
 21:00 | 懇親会
-22:00 | 解散
 
 ---
 
-## LTs
+## LTs: 前半
 
-- TBD
+1. 合否判断が別れて気づいた！採用要件の明確化がもたらした2つの価値 
+  - by 伊藤 哲弥 at scouty
+1. 5回転職し6社で採用に関わって感じた採用を失敗させる共通要因
+  - by 大野 知希 at ナーブ
+1. TBD
+  - by 山口 啓佑 at Speee
+
+---
+
+## LTs: 後半
+
+1. TBD
+  - by 森實 泰司
+1. 候補者に響かない "結果と成長" を押す
+  - by 畑中 五月 at Repro
 
 ---
 
@@ -98,6 +106,35 @@ h-satsukiy | threetreeslight | AyaShibaki | ksk1030
 ---
 
 ### 早速始めていきましょう！
+
+# カンパーイ
+
+# 🍻 🍕 🍪
+
+---
+
+## 楽しめましたか？
+
+---
+
+## コンテンツのアンケート
+
+👉　[slido.com](https://app2.sli.do/event/xxx/questions) #xxx
+
+---
+
+## 多謝
+
+---
+
+# 🙏
+
+懇親会準備にお手伝いにご協力ください
+
+1. 椅子を前に寄せて頂く
+1. 食べ物・飲み物のデプロイ
+
+---
 
 # カンパーイ
 

@@ -2,3 +2,7 @@
   border: 0px;
   box-shadow: 0 0 0;
 }
+
+.reveal h1 {
+  text-shadow: none;
+}
