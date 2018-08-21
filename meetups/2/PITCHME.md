@@ -35,7 +35,7 @@ tipsを共有・ディスカッションするミートアップです
 
 ## サバイブしたい主催者
 
-h-satsukiy | threetreeslight | AyaShibaki | ksk1030
+h-satsukiy | ttl | AyaShibaki | ksk1030
 --- | --- | --- | ---
 ![](https://avatars2.githubusercontent.com/u/40909062?s=200&v=4) | ![](https://avatars0.githubusercontent.com/u/1057490?s=200&v=4) | ![](https://avatars2.githubusercontent.com/u/42400921?s=200&v=4) | ![](https://avatars0.githubusercontent.com/u/16422265?s=200&v=4)
 
