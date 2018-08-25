@@ -2,22 +2,22 @@
 
 ![](/assets/images/logo-transparent-small.png)
 
-HashTag: #hackinghrs
+Hashtag: [`#hackinghrs`](https://twitter.com/hashtag/hackinghrs)
 
 ---
 
-## What's Hacking HR! ?
+## Hacking HRって何?
 
 StartupのHR活動をハック!
 
-tipsを共有・ディスカッションするミートアップです
+tipsを共有したりディスカッションするミートアップ
 
 ---
 
-## Why?
+## なぜ?
 
-1. スタートアップにおける人事担当者の活動は多岐にわたるが、リソースも才能も有限
-1. 会社の置かれる状況を正しく把握し、今会社の成長のドライバーは何であるか見極め、フォーカスし行動することが求めらる
+1. スタートアップにおける人事担当者の活動は多様！だがリソースも才能も有限
+1. 会社の状況を正しく把握し、その成長のドライバーは何であるか見極め行動することが求めらる
 
 ---
 
@@ -41,7 +41,7 @@ h-satsukiy | ttl | AyaShibaki | ksk1030
 
 ---
 
-## 🎉 Sponsers 👏
+## 🎉 スポンサー 👏
 
 会場・フード・ドリンク
 
@@ -49,7 +49,7 @@ h-satsukiy | ttl | AyaShibaki | ksk1030
 
 ---
 
-## Facilities
+## 設備
 
 - WiFiあります。SSID/PWは前の方においてあるプラカードを参照ください
 - トイレは会場を出て突き当り左にあります
@@ -58,9 +58,15 @@ h-satsukiy | ttl | AyaShibaki | ksk1030
 
 ---
 
+## 今回のテーマ
+
+---
+
 ## 実録！採用業務の失敗談
 
-多大な時間を費やしてやっとひねり出した採用施策が、思いもよらぬ悲劇を。。。
+我々の考える **最強の施策**!
+
+そんな施策が思いもよらぬ悲劇を。。。
 
 ---
 
@@ -108,8 +114,7 @@ h-satsukiy | ttl | AyaShibaki | ksk1030
 ### 早速始めていきましょう！
 
 # カンパーイ
-
-# 🍻 🍕 🍪
+# 🍻🍻🍻
 
 ---
 
@@ -123,7 +128,7 @@ h-satsukiy | ttl | AyaShibaki | ksk1030
 
 ---
 
-## 多謝
+# 多謝
 
 ---
 
@@ -138,4 +143,4 @@ h-satsukiy | ttl | AyaShibaki | ksk1030
 
 # カンパーイ
 
-# 🍻 🍕 🍪
+# 🍻🍻🍻
