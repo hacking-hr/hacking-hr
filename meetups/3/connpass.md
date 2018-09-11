@@ -13,7 +13,7 @@ Hacking HR! は **startupの人事・採用などに携わる方** で集まり�
 ### 過去イベントの雰囲気
 
 - vol2
-    - [【登壇スライドあり】Hacking HR！#2 イベントレポート公開！]()
+    - [Hacking HR！#2 イベントレポート公開！]()
 - vol1
     - [【登壇スライドあり】人生初LT登壇！Wantedlyの運用のこと話したよ！緊張した！！！でも楽しかった！](https://www.wantedly.com/companies/dip/post_articles/127060])
 
