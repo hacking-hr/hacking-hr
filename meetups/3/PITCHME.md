@@ -62,16 +62,36 @@ h-satsukiy | ttl | AyaShibaki | ksk1030
 
 ---
 
-## TBD
+## リファラルを学ぶ! リファラル入社しちゃったぞLT会
 
-TBD
+媒体やエージェントと並び、有効な採用手法としてもてはやされるリファラル採用。
+
+これ、難しくないですか？
+
+そういうときは、本人に聞いちゃうのが手っ取り早い！・・・
 
 ---
 
 ## LTs
 
-1. TBD
-  - by TBD at TBD
+1. 俺の入社カスタマージャーニー ～憧れは理解から最も遠い感情～
+  - by 駒谷 徹 at Repro
+
+1. 実録リファラル採用 -僕と副社長の1827日-
+  - by 中谷 圭佑 at ORSO
+
+1. TBA
+  - by 三加 裕記 at MyRefer
+
+---
+
+## LTs  
+
+1. すべてを捨て、スタートアップを選んだ理由 -リファラル採用成功のためにはビジョンセリングとエンゲージメント向上の徹底が鍵である-
+  - by 小守林 駿 at BtoA
+
+1. TBA
+  - by 佐藤 ひかる at ビズリーチ
 
 ---
 
@@ -89,7 +109,7 @@ TBD
 
 ## Q&A
 
-👉　[slido.com](https://app2.sli.do/event/TBD) #TBD
+👉　[slido.com](https://wall2.sli.do/event/fylegcwl) #Y946
 
 - 発表後に軽くQAタイムを設けたいと思っています
 - slido, twitterを使って随時質問ください
@@ -109,7 +129,7 @@ TBD
 
 ## アンケート
 
-👉　[slido.com](https://app2.sli.do/event/TBD) #TBD
+👉　[slido.com](https://wall2.sli.do/event/fylegcwl) #Y946
 
 ---
 
