@@ -71,7 +71,7 @@ h-satsukiy | ttl | AyaShibaki | ksk1030
 1. 実録リファラル採用 -僕と副社長の1827日-
   - by 中谷 圭佑 at ORSO
 
-1. TBA
+1. “運命”と書いてリファラル採用と読む ～繋がりからの出会いを大切に～
   - by 三加 裕記 at MyRefer
 
 ---
