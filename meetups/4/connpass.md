@@ -44,6 +44,7 @@ HARMOS、Talentio、ジョブカン、SONAR、Workday、はたまたspread sheet
 LTとQA含め、最大10分でお願いします。
 
 登壇される方はタイトルが決定しましたらconnpass feedに投稿ください。
+ステッカーなどのノベルティをお作りの場合、ぜひお持ちください！
 
 ### Repro株式会社 VPoE 三木 明
 TBA
