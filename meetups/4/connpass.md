@@ -53,7 +53,10 @@ LTとQA含め、最大10分でお願いします。
 会場受付にて配布いたします✨
 
 
-### Repro株式会社 VPoE 三木 明
+### [threetreeslight](https://twitter.com/threetreeslight) from Repro
+
+![](https://pbs.twimg.com/profile_images/668402457978908672/2bdWkA5R_200x200.jpg)
+
 TBA
 
 
