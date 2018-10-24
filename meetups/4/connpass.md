@@ -32,26 +32,50 @@ Hacking HR! は **startupの人事・採用などに携わる方** で集まり�
 
 そんな悲しみにくれないように、採用管理手法から利用サービスの良し悪しなど現場感あふれるTipsを話し合いましょう！
 
-
 > ### LT（ライトニングトーク）とは
 > 5分間程度の短時間プレゼンテーションです。実施のコツは[こちら](http://develtips.com/etc/239)
 
 # LTs
 
 5-10分程度のLTを募集しています！
-LTの中に困り事や問いかけを入れていただくと盛り上がるのでおすすめです☝️
+LTの中に困り事や問いかけを入れていただくと盛り上がるのでおすすめです ☝️
 
 タイトルが決定しましたらconnpass feedに投稿ください。
 
 自社のステッカーやノベルティを配布したい場合は、お持ちください。会場受付にて配布いたします✨
 
-
 ### [threetreeslight](https://twitter.com/threetreeslight) from Repro
 
 ![](https://pbs.twimg.com/profile_images/668402457978908672/2bdWkA5R_200x200.jpg)
 
-TBA
+音楽系、メディア系スタートアップの立ち上げや国内EC、越境EC企業でのエンジニアマネージャーを経て、モバイルアプリ・ウェブ向けのマーケティングオートメーションサービスを提供するReproを共同創業。
+現在はReproのVP of Engineeringとして、グローバル進出を見据えたイケてる組織づくりに従事。
 
+LT: 僕が知りたいのは何をしたら良いのかだった
+
+### Ryosuke Nakagawa from Donuts
+
+![]()
+
+LT: TBA
+
+### Kazuya Minobe from BizReach
+
+![](https://github.com/hacking-hr/hacking-hr/blob/master/meetups/4/images/kazuya-minobe.png?raw=true)
+
+LT: 急成長事業を”ほぼ”支えきる採用管理システム
+
+### Yasuyoshi Minehisa from SMS
+
+![](https://github.com/hacking-hr/hacking-hr/blob/master/meetups/4/images/yasuyoshi-minehisa.png?raw=true)
+
+LT: 急成長企業の事業創造を支える採用システム（について考えてみる）
+
+### Shouta Shikano from リクルートキャリア
+
+![](https://github.com/hacking-hr/hacking-hr/blob/master/meetups/4/images/shouta-shikano.png?raw=true)
+
+LT: TBA
 
 # タイムテーブル
 
