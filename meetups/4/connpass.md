@@ -57,13 +57,13 @@ LT: 僕が知りたいのは何をしたら良いのかだった
 
 ![]()
 
-LT: TBA
+LT: 急成長事業を”ほぼ”支えきる採用管理システム
 
 ### Kazuya Minobe from BizReach
 
 ![](https://github.com/hacking-hr/hacking-hr/blob/master/meetups/4/images/kazuya-minobe.png?raw=true)
 
-LT: 急成長事業を”ほぼ”支えきる採用管理システム
+LT: TBA
 
 ### Yasuyoshi Minehisa from SMS
 
@@ -75,7 +75,7 @@ LT: 急成長企業の事業創造を支える採用システム（について�
 
 ![](https://github.com/hacking-hr/hacking-hr/blob/master/meetups/4/images/shouta-shikano.png?raw=true)
 
-LT: TBA
+LT: エージェントから見たATS
 
 # タイムテーブル
 
