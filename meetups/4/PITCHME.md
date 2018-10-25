@@ -64,7 +64,7 @@ h-satsukiy | ttl | AyaShibaki | ksk1030
 1. 急成長事業を”ほぼ”支えきる採用管理システム
   - by Ryosuke Nakagawa from Donuts
 
-1. TBA
+1. Recruitment Success Platform ～採用成功のためのパートナーとしてのATS～
   - by Kazuya Minobe from BizReach
 
 1. 急成長企業の事業創造を支える採用システム（について考えてみる）

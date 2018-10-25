@@ -54,7 +54,7 @@ LT: 急成長事業を”ほぼ”支えきる採用管理システム
 
 ![](https://github.com/hacking-hr/hacking-hr/blob/master/meetups/4/images/kazuya-minobe.png?raw=true)
 
-LT: TBA
+LT: Recruitment Success Platform ～採用成功のためのパートナーとしてのATS～
 
 ### Yasuyoshi Minehisa from SMS
 
