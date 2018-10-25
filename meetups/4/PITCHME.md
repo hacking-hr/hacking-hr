@@ -61,24 +61,24 @@ h-satsukiy | ttl | AyaShibaki | ksk1030
 
 ## LTs
 
-1. 僕が知りたいのは何をしたら良いのかだった
-  - by threetreeslight from Repro
-
 1. 急成長事業を”ほぼ”支えきる採用管理システム
   - by Ryosuke Nakagawa from Donuts
 
 1. TBA
   - by Kazuya Minobe from BizReach
 
+1. 急成長企業の事業創造を支える採用システム（について考えてみる）
+  - by Yasuyoshi Minehisa from SMS  
+
 ---
 
 ## LTs  
 
-1. 急成長企業の事業創造を支える採用システム（について考えてみる）
-  - by Yasuyoshi Minehisa from SMS
-
 1. エージェントから見たATS
   - by Shouta Shikano from リクルートキャリア
+
+1. 僕が知りたいのは何をしたら良いのかだった
+  - by threetreeslight from Repro  
 
 ---
 

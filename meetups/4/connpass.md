@@ -44,18 +44,9 @@ LTの中に困り事や問いかけを入れていただくと盛り上がるの
 
 自社のステッカーやノベルティを配布したい場合は、お持ちください。会場受付にて配布いたします✨
 
-### [threetreeslight](https://twitter.com/threetreeslight) from Repro
-
-![](https://pbs.twimg.com/profile_images/668402457978908672/2bdWkA5R_200x200.jpg)
-
-音楽系、メディア系スタートアップの立ち上げや国内EC、越境EC企業でのエンジニアマネージャーを経て、モバイルアプリ・ウェブ向けのマーケティングオートメーションサービスを提供するReproを共同創業。
-現在はReproのVP of Engineeringとして、グローバル進出を見据えたイケてる組織づくりに従事。
-
-LT: 僕が知りたいのは何をしたら良いのかだった
-
 ### Ryosuke Nakagawa from Donuts
 
-![]()
+![](https://github.com/hacking-hr/hacking-hr/blob/master/meetups/4/images/ryosuke-nakagawa.png?raw=true)
 
 LT: 急成長事業を”ほぼ”支えきる採用管理システム
 
@@ -76,6 +67,15 @@ LT: 急成長企業の事業創造を支える採用システム（について�
 ![](https://github.com/hacking-hr/hacking-hr/blob/master/meetups/4/images/shouta-shikano.png?raw=true)
 
 LT: エージェントから見たATS
+
+### [threetreeslight](https://twitter.com/threetreeslight) from Repro
+
+![](https://pbs.twimg.com/profile_images/668402457978908672/2bdWkA5R_200x200.jpg)
+
+音楽系、メディア系スタートアップの立ち上げや国内EC、越境EC企業でのエンジニアマネージャーを経て、モバイルアプリ・ウェブ向けのマーケティングオートメーションサービスを提供するReproを共同創業。
+現在はReproのVP of Engineeringとして、グローバル進出を見据えたイケてる組織づくりに従事。
+
+LT: 僕が知りたいのは何をしたら良いのかだった
 
 # タイムテーブル
 
