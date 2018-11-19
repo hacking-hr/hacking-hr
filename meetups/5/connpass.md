@@ -1,6 +1,6 @@
-- 日程: 2018-12-XX(Tue) 19:30-22:30
-- 参加者枠: 30~50 FCFS
-- LT枠: 5 FCFS
+- 日程: 2018-12-13(Tue) 19:30-22:30
+- 参加者枠: 30~50 先着順
+- LT枠: 5 先着順
 
 # Hacking HRとは?
 
@@ -25,7 +25,7 @@ Hacking HR! は **startupの人事・採用などに携わる方** で集まり�
     - [【登壇スライドあり】人生初LT登壇！Wantedlyの運用のこと話したよ！緊張した！！！でも楽しかった！](https://www.wantedly.com/companies/dip/post_articles/127060])
     - [【採用担当者必見】採用メディアを上手く活用している5つの事例をまとめてご紹介！](https://hcm-jinjer.com/media/contents/b-contents-saiyo-hack1-180814/)
 
-# テーマ：2018's 年忘れLT飲み会
+# テーマ：2018's 年忘れLT大会！
 
 早いもので、もう2018年も終わりますね。
 
@@ -45,20 +45,21 @@ Hacking HR! は **startupの人事・採用などに携わる方** で集まり�
 # LTs
 
 5-10分程度のLTを募集しています！
+未経験でも全く問題ありません！
+
 LTの中に困り事や問いかけを入れていただくと盛り上がるのでおすすめです ☝️
 
 タイトルが決定しましたらconnpass feedに投稿ください。
 
 自社のステッカーやノベルティを配布したい場合は、お持ちください。会場受付にて配布いたします✨
 
-### [threetreeslight](https://twitter.com/threetreeslight) from Repro
+### Keisuke Nakatani from ORSO
+![](https://avatars0.githubusercontent.com/u/16422265?s=200&v=4)
 
-![](https://pbs.twimg.com/profile_images/668402457978908672/2bdWkA5R_200x200.jpg)
+### Satsuki Hatanaka from repro
+![](https://avatars2.githubusercontent.com/u/40909062?s=200&v=4)
 
-音楽系、メディア系スタートアップの立ち上げや国内EC、越境EC企業でのエンジニアマネージャーを経て、モバイルアプリ・ウェブ向けのマーケティングオートメーションサービスを提供するReproを共同創業。
-現在はReproのVP of Engineeringとして、グローバル進出を見据えたイケてる組織づくりに従事。
 
-LT: TBA
 
 # タイムテーブル
 
