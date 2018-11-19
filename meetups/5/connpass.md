@@ -30,7 +30,7 @@ Hacking HR! は **startupの人事・採用などに携わる方** で集まり�
 早いもので、もう2018年も終わりますね。
 
 年の瀬に、人事制度に関する日頃の鬱憤や悩みをLTに込めつつ、
-大忘年会をしませんか！？
+お酒やピザを片手に大忘年会をしませんか！？
 
 人事制度と一言で言っても、評価あり、等級・賃金制度あり、福利厚生ありと幅広いですし
 自社独自のユニークな制度を運用している会社もあるでしょう。
@@ -54,7 +54,7 @@ LTの中に困り事や問いかけを入れていただくと盛り上がるの
 自社のステッカーやノベルティを配布したい場合は、お持ちください。会場受付にて配布いたします✨
 
 ### ryukku from Speee
-![](https://github.com/hacking-hr/hacking-hr/blob/master/assets/images/ryukku.png)
+![](https://github.com/hacking-hr/hacking-hr/blob/master/assets/images/ryukku.png?raw=true)
 
 ### Keisuke Nakatani from ORSO
 ![](https://avatars0.githubusercontent.com/u/16422265?s=200&v=4)
