@@ -59,7 +59,7 @@ LTの中に困り事や問いかけを入れていただくと盛り上がるの
 ### Keisuke Nakatani from ORSO
 ![](https://avatars0.githubusercontent.com/u/16422265?s=200&v=4)
 
-### Satsuki Hatanaka from Repro
+### Aya Shibaki from Roseau Pensant 
 ![](https://avatars2.githubusercontent.com/u/40909062?s=200&v=4)
 
 # タイムテーブル
