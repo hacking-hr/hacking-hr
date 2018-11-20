@@ -53,14 +53,21 @@ LTの中に困り事や問いかけを入れていただくと盛り上がるの
 
 自社のステッカーやノベルティを配布したい場合は、お持ちください。会場受付にて配布いたします✨
 
+### [threetreeslight](https://twitter.com/threetreeslight) from Repro
+
+![](https://pbs.twimg.com/profile_images/668402457978908672/2bdWkA5R_200x200.jpg)
+
+音楽系、メディア系スタートアップの立ち上げや国内EC、越境EC企業でのエンジニアマネージャーを経て、モバイルアプリ・ウェブ向けのマーケティングオートメーションサービスを提供するReproを共同創業。
+現在はReproのVP of Engineeringとして、グローバル進出を見据えたイケてる組織づくりに従事。
+
 ### ryukku from Speee
 ![](https://github.com/hacking-hr/hacking-hr/blob/master/assets/images/ryukku.png?raw=true)
 
 ### Keisuke Nakatani from ORSO
 ![](https://avatars0.githubusercontent.com/u/16422265?s=200&v=4)
 
-### Aya Shibaki from Roseau Pensant 
-![](https://avatars2.githubusercontent.com/u/40909062?s=200&v=4)
+### Aya Shibaki from Roseau Pensant
+![](https://avatars2.githubusercontent.com/u/42400921?s=200&v=4)
 
 # タイムテーブル
 
