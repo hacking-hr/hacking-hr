@@ -70,6 +70,8 @@ LTの中に困り事や問いかけを入れていただくと盛り上がるの
 ### Nabeharu from feedforce
 ![](https://github.com/hacking-hr/hacking-hr/blob/master/assets/images/nabeharu.png?raw=true)
 
+「意識低い系HRTechのススメ」
+
 ### Masaru Takei from Schoo
 ![](https://github.com/hacking-hr/hacking-hr/blob/master/assets/images/takei.png?raw=true)
 
@@ -82,6 +84,7 @@ LTの中に困り事や問いかけを入れていただくと盛り上がるの
 19:40 | LT1~4（懇親会を挟む場合あり）
 20:20 | 休憩
 20:30 | LT5~7
+20:50 | まとめ 
 21:00 | 懇親会
 22:00 | 解散
 

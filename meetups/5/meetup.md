@@ -7,23 +7,45 @@ Hacking HR! は **startupの人事・採用などに携わる方** で集まり�
 
 また、オーガーナイザーを募集しております！興味がある方がいましたら懇親会にてお声がけください。Facebookグループへのご参加も、お待ちしております！ https://www.facebook.com/groups/2084888991577412/
 
-イベントのお申込みはこちら： https://hacking-hr.connpass.com/event/103909/
+イベントのお申込みはこちら： https://hacking-hr.connpass.com/event/110450/
 
-テーマ：マイ・ベスト・オブ採用管理
-￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣
-採用管理、それは甘美な誘惑。
+テーマ：2018's 年忘れ酔いどれLT大会！
+￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣
+早いもので、もう2018年も終わりますね。
 
-そんな採用管理SaaSサービスは数多ある中、どれを使うか一つひとつ試している時間はありません。
-採用したのに自分の期待するデータもプロセス管理もできないと気づいた日には目も当てられません。
+年の瀬に、人事制度に関する日頃の鬱憤や悩みをLTに込めつつ、
+お酒やピザを片手に大忘年会をしませんか！？
 
-そんな悲しみにくれないように、採用管理手法から利用サービスの良し悪しなど現場感あふれるTipsを話し合いましょう！
+人事制度と一言で言っても、評価あり、等級・賃金制度あり、福利厚生ありと幅広いですし
+自社独自のユニークな制度を運用している会社もあるでしょう。
+
+ぜひ、そんな多岐に渡る人事制度の導入・運用の失敗談を赤裸々にLTしつつ
+その失敗を笑い飛ばしながら明るく新年を迎えませんか？
 
 登壇者
 ￣￣￣
-■ [threetreeslight](https://twitter.com/threetreeslight) from Repro
+### [threetreeslight](https://twitter.com/threetreeslight) from Repro
 
 ![](https://pbs.twimg.com/profile_images/668402457978908672/2bdWkA5R_200x200.jpg)
 
-TBA
+音楽系、メディア系スタートアップの立ち上げや国内EC、越境EC企業でのエンジニアマネージャーを経て、モバイルアプリ・ウェブ向けのマーケティングオートメーションサービスを提供するReproを共同創業。
+現在はReproのVP of Engineeringとして、グローバル進出を見据えたイケてる組織づくりに従事。
 
-お申込みはこちら：https://hacking-hr.connpass.com/event/103909/
+### ryukku from Speee
+![](https://github.com/hacking-hr/hacking-hr/blob/master/assets/images/ryukku.png?raw=true)
+
+### Keisuke Nakatani from ORSO
+![](https://avatars0.githubusercontent.com/u/16422265?s=200&v=4)
+
+### Aya Shibaki from Roseau Pensant
+![](https://avatars2.githubusercontent.com/u/42400921?s=200&v=4)
+
+### Nabeharu from feedforce
+![](https://github.com/hacking-hr/hacking-hr/blob/master/assets/images/nabeharu.png?raw=true)
+
+「意識低い系HRTechのススメ」
+
+### Masaru Takei from Schoo
+![](https://github.com/hacking-hr/hacking-hr/blob/master/assets/images/takei.png?raw=true)
+
+お申込みはこちら：https://hacking-hr.connpass.com/event/110450/

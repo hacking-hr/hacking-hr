@@ -9,9 +9,11 @@ Hacking HR! は **startupの人事・採用などに携わる方** で集まり�
 
 また、オーガーナイザーを募集しております！興味がある方がいましたら懇親会にてお声がけください。Facebookグループへのご参加も、お待ちしております！ https://www.facebook.com/groups/2084888991577412/
 
-※お申込みはこちら：https://hacking-hr.connpass.com/event/103909/
+※お申込みはこちら：https://hacking-hr.connpass.com/event/110450/
 
 過去イベントの雰囲気
+- vol4 マイ・ベスト・オブ採用管理
+    - [作成中]()
 - vol3 リファラルを学ぶ！リファラル入社しちゃったぞLT会
     - [Hacking HR!#3 に参加したので内容をまとめてみた！](http://hoozm.hatenablog.com/entry/2018/09/26/015431)
 - vol2 実録！「採用」業務の失敗談
@@ -20,16 +22,20 @@ Hacking HR! は **startupの人事・採用などに携わる方** で集まり�
     - [【登壇スライドあり】人生初LT登壇！Wantedlyの運用のこと話したよ！緊張した！！！でも楽しかった！](https://www.wantedly.com/companies/dip/post_articles/127060)
     - [【採用担当者必見】採用メディアを上手く活用している5つの事例をまとめてご紹介！](https://hcm-jinjer.com/media/contents/b-contents-saiyo-hack1-180814/)
 
-今回のテーマは「マイ・ベスト・オブ採用管理」！
+今回のテーマは「2018's 年忘れ酔いどれLT大会！」
 
-採用管理、それは甘美な誘惑。
+採早いもので、もう2018年も終わりますね。
 
-そんな採用管理SaaSサービスは数多ある中、どれを使うか一つひとつ試している時間はありません。
-採用したのに自分の期待するデータもプロセス管理もできないと気づいた日には目も当てられません。
+年の瀬に、人事制度に関する日頃の鬱憤や悩みをLTに込めつつ、
+お酒やピザを片手に大忘年会をしませんか！？
 
-そんな悲しみにくれないように、採用管理手法から利用サービスの良し悪しなど現場感あふれるTipsを話し合いましょう！
+人事制度と一言で言っても、評価あり、等級・賃金制度あり、福利厚生ありと幅広いですし
+自社独自のユニークな制度を運用している会社もあるでしょう。
 
-※お申込みはこちら：https://hacking-hr.connpass.com/event/103909/
+ぜひ、そんな多岐に渡る人事制度の導入・運用の失敗談を赤裸々にLTしつつ
+その失敗を笑い飛ばしながら明るく新年を迎えませんか？
+
+※お申込みはこちら：https://hacking-hr.connpass.com/event/110450/
 
 
 登壇者は、、、
@@ -37,12 +43,29 @@ Hacking HR! は **startupの人事・採用などに携わる方** で集まり�
 
 ![](https://pbs.twimg.com/profile_images/668402457978908672/2bdWkA5R_200x200.jpg)
 
-TBA
+音楽系、メディア系スタートアップの立ち上げや国内EC、越境EC企業でのエンジニアマネージャーを経て、モバイルアプリ・ウェブ向けのマーケティングオートメーションサービスを提供するReproを共同創業。
+現在はReproのVP of Engineeringとして、グローバル進出を見据えたイケてる組織づくりに従事。
 
-我こそは！という方のLT応募もお待ちしております！
+■ ryukku from Speee
+![](https://github.com/hacking-hr/hacking-hr/blob/master/assets/images/ryukku.png?raw=true)
 
-開催は10/25（木）19:30~
-※お申込みはこちら：https://hacking-hr.connpass.com/event/103909/
+■ Keisuke Nakatani from ORSO
+![](https://avatars0.githubusercontent.com/u/16422265?s=200&v=4)
+
+■ Aya Shibaki from Roseau Pensant
+![](https://avatars2.githubusercontent.com/u/42400921?s=200&v=4)
+
+■ Nabeharu from feedforce
+![](https://github.com/hacking-hr/hacking-hr/blob/master/assets/images/nabeharu.png?raw=true)
+
+「意識低い系HRTechのススメ」
+
+■ Masaru Takei from Schoo
+![](https://github.com/hacking-hr/hacking-hr/blob/master/assets/images/takei.png?raw=true)
+
+
+開催は12/13（木）19:30~
+※お申込みはこちら：https://hacking-hr.connpass.com/event/110450/
 
 皆様お気軽にご参加ください！
 会場

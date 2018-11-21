@@ -1,4 +1,4 @@
-## Hacking HR! #4
+## Hacking HR! #5
 
 ![](/assets/images/logo-transparent-small.png)
 
@@ -35,9 +35,10 @@ tipsを共有したりディスカッションするミートアップ
 
 ## サバイブしたい主催者
 
-h-satsukiy | ttl | AyaShibaki | ksk1030
+h-satsukiy | ttl | AyaShibaki | ksk1030 | y-minehisa
 --- | --- | --- | ---
-![](https://avatars2.githubusercontent.com/u/40909062?s=200&v=4) | ![](https://avatars0.githubusercontent.com/u/1057490?s=200&v=4) | ![](https://avatars2.githubusercontent.com/u/42400921?s=200&v=4) | ![](https://avatars0.githubusercontent.com/u/16422265?s=200&v=4)
+![](https://avatars2.githubusercontent.com/u/40909062?s=200&v=4) | ![](https://avatars0.githubusercontent.com/u/1057490?s=200&v=4) | ![](https://avatars2.githubusercontent.com/u/42400921?s=200&v=4) | ![](https://avatars0.githubusercontent.com/u/16422265?s=200&v=4) |
+![](https://avatars2.githubusercontent.com/u/44672452?s=200&v=4)
 
 ---
 
@@ -53,22 +54,32 @@ h-satsukiy | ttl | AyaShibaki | ksk1030
 
 ---
 
-### マイ・ベスト・オブ採用管理
+### 2018's 年忘れ酔いどれLT大会！
 
-歴戦の猛者たちに直接聞いてしまいましょう✨
+年の瀬に、人事制度に関する日頃の鬱憤や悩みをLTに込めつつ、
+お酒やピザを片手に大忘年会をしましょう！
 
 ---
 
 ## LTs
 
-1. 急成長事業を”ほぼ”支えきる採用管理システム
-  - by Ryosuke Nakagawa from Donuts
+1. TBA
+  - by threetreeslight from Repro
 
-1. Recruitment Success Platform ～採用成功のためのパートナーとしてのATS～
-  - by Kazuya Minobe from BizReach
+1. TBA
+  - by ryukku from Speee
 
-1. 急成長企業の事業創造を支える採用システム（について考えてみる）
-  - by Yasuyoshi Minehisa from SMS  
+1. TBA
+  - by Keisuke Nakatani
+
+1. TBA
+  - by Aya Shibaki from Roseau Pensant
+
+1. TBA
+  - by Nabeharu from feedforce
+
+1. TBA
+  - by Masaru Takei from Schoo
 
 ---
 
