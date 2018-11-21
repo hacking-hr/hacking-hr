@@ -36,7 +36,7 @@ tipsを共有したりディスカッションするミートアップ
 ## サバイブしたい主催者
 
 h-satsukiy | ttl | AyaShibaki | ksk1030 | y-minehisa
---- | --- | --- | ---
+--- | --- | --- | --- | ---
 ![](https://avatars2.githubusercontent.com/u/40909062?s=200&v=4) | ![](https://avatars0.githubusercontent.com/u/1057490?s=200&v=4) | ![](https://avatars2.githubusercontent.com/u/42400921?s=200&v=4) | ![](https://avatars0.githubusercontent.com/u/16422265?s=200&v=4) |
 ![](https://avatars2.githubusercontent.com/u/44672452?s=200&v=4)
 
@@ -70,7 +70,11 @@ h-satsukiy | ttl | AyaShibaki | ksk1030 | y-minehisa
   - by ryukku from Speee
 
 1. TBA
-  - by Keisuke Nakatani
+  - by Keisuke Nakatani from ORSO
+
+---
+
+## LTs
 
 1. TBA
   - by Aya Shibaki from Roseau Pensant
@@ -83,23 +87,13 @@ h-satsukiy | ttl | AyaShibaki | ksk1030 | y-minehisa
 
 ---
 
-## LTs  
-
-1. エージェントから見たATS
-  - by Shouta Shikano from リクルートキャリア
-
-1. 僕が知りたいのは何をしたら良いのかだった
-  - by threetreeslight from Repro  
-
----
-
 ## Time table
 
 時刻 | 詳細
 --- | ---
-19:50 | LT1~3
+19:40 | LT1~4
 20:20 | 休憩
-20:30 | LT4~5
+20:30 | LT5~7
 20:50 | まとめ
 21:00 | 懇親会
 
@@ -107,7 +101,7 @@ h-satsukiy | ttl | AyaShibaki | ksk1030 | y-minehisa
 
 ## Q&A
 
-👉　[slido.com](https://wall2.sli.do/event/eudbyk1z) #V445
+👉　[slido.com](https://wall2.sli.do/event/pp6bintk) #X633
 
 - 発表後に軽くQAタイムを設けたいと思っています
 - slido, twitterを使って随時質問ください
