@@ -1,6 +1,4 @@
-- 日程: 2018-12-13(Tue) 19:30-22:30
-- 参加者枠: 30~50 先着順
-- LT枠: 5 先着順
+# 2018.11.21 LT枠を増枠しました！
 
 # Hacking HRとは?
 
@@ -69,16 +67,21 @@ LTの中に困り事や問いかけを入れていただくと盛り上がるの
 ### Aya Shibaki from Roseau Pensant
 ![](https://avatars2.githubusercontent.com/u/42400921?s=200&v=4)
 
+### Nabeharu from feedforce
+![](https://github.com/hacking-hr/hacking-hr/blob/master/assets/images/nabeharu.png?raw=true)
+
+### Masaru Takei from Schoo
+![](https://github.com/hacking-hr/hacking-hr/blob/master/assets/images/takei.png?raw=true)
+
 # タイムテーブル
 
 時刻 | 詳細
 --- | ---
 19:00 | 受付開始
 19:30 | 乾杯、イベント趣旨説明、会場案内
-19:50 | LT1~3（懇親会を挟む場合あり）
+19:40 | LT1~4（懇親会を挟む場合あり）
 20:20 | 休憩
-20:30 | LT4~5
-20:50 | アンケート
+20:30 | LT5~7
 21:00 | 懇親会
 22:00 | 解散
 
