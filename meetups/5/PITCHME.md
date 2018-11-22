@@ -37,8 +37,8 @@ tipsを共有したりディスカッションするミートアップ
 
 h-satsukiy | ttl | AyaShibaki | ksk1030 | y-minehisa
 --- | --- | --- | --- | ---
-![](https://avatars2.githubusercontent.com/u/40909062?s=200&v=4) | ![](https://avatars0.githubusercontent.com/u/1057490?s=200&v=4) | ![](https://avatars2.githubusercontent.com/u/42400921?s=200&v=4) | ![](https://avatars0.githubusercontent.com/u/16422265?s=200&v=4) |
-![](https://avatars2.githubusercontent.com/u/44672452?s=200&v=4)
+![](https://avatars2.githubusercontent.com/u/40909062?s=200&v=5) | ![](https://avatars0.githubusercontent.com/u/1057490?s=200&v=5) | ![](https://avatars2.githubusercontent.com/u/42400921?s=200&v=5) | ![](https://avatars0.githubusercontent.com/u/16422265?s=200&v=5) |
+![](https://avatars2.githubusercontent.com/u/44672452?s=200&v=5)
 
 ---
 
