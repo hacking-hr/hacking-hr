@@ -47,8 +47,8 @@ Hacking HR! は **startupの人事・採用などに携わる方** で集まり�
 ### Masaru Takei from Schoo
 ![](https://github.com/hacking-hr/hacking-hr/blob/master/assets/images/takei.png?raw=true)
 
-### Keisuke Nakatani from ORSO
-![](https://avatars0.githubusercontent.com/u/16422265?s=200&v=4)
+### Tetsuya Ito from scouty
+![](https://github.com/hacking-hr/hacking-hr/blob/master/assets/images/tito.png?raw=true)
 
 ### Aya Shibaki from Roseau Pensant
 ![](https://avatars2.githubusercontent.com/u/42400921?s=200&v=4)
@@ -59,7 +59,7 @@ Hacking HR! は **startupの人事・採用などに携わる方** で集まり�
 ### Nabeharu from feedforce
 ![](https://github.com/hacking-hr/hacking-hr/blob/master/assets/images/nabeharu.png?raw=true)
 
-「意識低い系HRTechのススメ」
+「OKR成功の秘訣はカントリーマァムにあった」
 
 ### Akishi Tanaka from KAYAC
 ![](https://github.com/hacking-hr/hacking-hr/blob/master/assets/images/tanaka.png?raw=true)

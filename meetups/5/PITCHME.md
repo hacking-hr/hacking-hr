@@ -67,7 +67,7 @@ h-satsukiy | ttl | AyaShibaki | ksk1030 | y-minehisa
   - by Masaru Takei from Schoo
 
 1. TBA
-  - by Keisuke Nakatani from ORSO
+  - by Tesuya Ito from scouty
 
 1. TBA
   - by Aya Shibaki from Roseau Pensant

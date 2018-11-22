@@ -11,16 +11,6 @@ Hacking HR! は **startupの人事・採用などに携わる方** で集まり�
 
 ※お申込みはこちら：https://hacking-hr.connpass.com/event/110450/
 
-過去イベントの雰囲気
-- vol4 マイ・ベスト・オブ採用管理
-    - [作成中]()
-- vol3 リファラルを学ぶ！リファラル入社しちゃったぞLT会
-    - [Hacking HR!#3 に参加したので内容をまとめてみた！](http://hoozm.hatenablog.com/entry/2018/09/26/015431)
-- vol2 実録！「採用」業務の失敗談
-    - [Hacking HR!#2 イベントレポート公開](https://www.wantedly.com/companies/repro/post_articles/134086)
-- vol1 Hack Recruiting Media!
-    - [【登壇スライドあり】人生初LT登壇！Wantedlyの運用のこと話したよ！緊張した！！！でも楽しかった！](https://www.wantedly.com/companies/dip/post_articles/127060)
-    - [【採用担当者必見】採用メディアを上手く活用している5つの事例をまとめてご紹介！](https://hcm-jinjer.com/media/contents/b-contents-saiyo-hack1-180814/)
 
 今回のテーマは「2018's 年忘れ酔いどれLT大会！」
 
@@ -39,29 +29,25 @@ Hacking HR! は **startupの人事・採用などに携わる方** で集まり�
 
 
 登壇者は、、、
-■ [threetreeslight](https://twitter.com/threetreeslight) from Repro
+### Masaru Takei from Schoo
+![](https://github.com/hacking-hr/hacking-hr/blob/master/assets/images/takei.png?raw=true)
 
-![](https://pbs.twimg.com/profile_images/668402457978908672/2bdWkA5R_200x200.jpg)
+### Tetsuya Ito from scouty
+![](https://github.com/hacking-hr/hacking-hr/blob/master/assets/images/tito.png?raw=true)
 
-音楽系、メディア系スタートアップの立ち上げや国内EC、越境EC企業でのエンジニアマネージャーを経て、モバイルアプリ・ウェブ向けのマーケティングオートメーションサービスを提供するReproを共同創業。
-現在はReproのVP of Engineeringとして、グローバル進出を見据えたイケてる組織づくりに従事。
-
-■ ryukku from Speee
-![](https://github.com/hacking-hr/hacking-hr/blob/master/assets/images/ryukku.png?raw=true)
-
-■ Keisuke Nakatani from ORSO
-![](https://avatars0.githubusercontent.com/u/16422265?s=200&v=4)
-
-■ Aya Shibaki from Roseau Pensant
+### Aya Shibaki from Roseau Pensant
 ![](https://avatars2.githubusercontent.com/u/42400921?s=200&v=4)
 
-■ Nabeharu from feedforce
+### ryukku from Speee
+![](https://github.com/hacking-hr/hacking-hr/blob/master/assets/images/ryukku.png?raw=true)
+
+### Nabeharu from feedforce
 ![](https://github.com/hacking-hr/hacking-hr/blob/master/assets/images/nabeharu.png?raw=true)
 
-「意識低い系HRTechのススメ」
+「OKR成功の秘訣はカントリーマァムにあった」
 
-■ Masaru Takei from Schoo
-![](https://github.com/hacking-hr/hacking-hr/blob/master/assets/images/takei.png?raw=true)
+### Akishi Tanaka from KAYAC
+![](https://github.com/hacking-hr/hacking-hr/blob/master/assets/images/tanaka.png?raw=true)
 
 
 開催は12/13（木）19:30~
@@ -70,3 +56,14 @@ Hacking HR! は **startupの人事・採用などに携わる方** で集まり�
 皆様お気軽にご参加ください！
 会場
 Repro株式会社 イベントスペース （渋谷区代々木1-36-4 全理連ビル6F　代々木駅北口徒歩30秒）
+
+過去イベントの雰囲気
+- vol4 マイ・ベスト・オブ採用管理
+    - [作成中]()
+- vol3 リファラルを学ぶ！リファラル入社しちゃったぞLT会
+    - [Hacking HR!#3 に参加したので内容をまとめてみた！](http://hoozm.hatenablog.com/entry/2018/09/26/015431)
+- vol2 実録！「採用」業務の失敗談
+    - [Hacking HR!#2 イベントレポート公開](https://www.wantedly.com/companies/repro/post_articles/134086)
+- vol1 Hack Recruiting Media!
+    - [【登壇スライドあり】人生初LT登壇！Wantedlyの運用のこと話したよ！緊張した！！！でも楽しかった！](https://www.wantedly.com/companies/dip/post_articles/127060)
+    - [【採用担当者必見】採用メディアを上手く活用している5つの事例をまとめてご紹介！](https://hcm-jinjer.com/media/contents/b-contents-saiyo-hack1-180814/)
