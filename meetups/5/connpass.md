@@ -42,24 +42,10 @@ Hacking HR! は **startupの人事・採用などに携わる方** で集まり�
 
 # LTs
 
-5-10分程度のLTを募集しています！
-未経験でも全く問題ありません！
+今回はこんなに豪華な方々にご登壇いただくこととなりました！！🎉🎉
 
-LTの中に困り事や問いかけを入れていただくと盛り上がるのでおすすめです ☝️
-
-タイトルが決定しましたらconnpass feedに投稿ください。
-
-自社のステッカーやノベルティを配布したい場合は、お持ちください。会場受付にて配布いたします✨
-
-### [threetreeslight](https://twitter.com/threetreeslight) from Repro
-
-![](https://pbs.twimg.com/profile_images/668402457978908672/2bdWkA5R_200x200.jpg)
-
-音楽系、メディア系スタートアップの立ち上げや国内EC、越境EC企業でのエンジニアマネージャーを経て、モバイルアプリ・ウェブ向けのマーケティングオートメーションサービスを提供するReproを共同創業。
-現在はReproのVP of Engineeringとして、グローバル進出を見据えたイケてる組織づくりに従事。
-
-### ryukku from Speee
-![](https://github.com/hacking-hr/hacking-hr/blob/master/assets/images/ryukku.png?raw=true)
+### Masaru Takei from Schoo
+![](https://github.com/hacking-hr/hacking-hr/blob/master/assets/images/takei.png?raw=true)
 
 ### Keisuke Nakatani from ORSO
 ![](https://avatars0.githubusercontent.com/u/16422265?s=200&v=4)
@@ -67,13 +53,16 @@ LTの中に困り事や問いかけを入れていただくと盛り上がるの
 ### Aya Shibaki from Roseau Pensant
 ![](https://avatars2.githubusercontent.com/u/42400921?s=200&v=4)
 
+### ryukku from Speee
+![](https://github.com/hacking-hr/hacking-hr/blob/master/assets/images/ryukku.png?raw=true)
+
 ### Nabeharu from feedforce
 ![](https://github.com/hacking-hr/hacking-hr/blob/master/assets/images/nabeharu.png?raw=true)
 
 「意識低い系HRTechのススメ」
 
-### Masaru Takei from Schoo
-![](https://github.com/hacking-hr/hacking-hr/blob/master/assets/images/takei.png?raw=true)
+### Akishi Tanaka from KAYAC
+![](https://github.com/hacking-hr/hacking-hr/blob/master/assets/images/tanaka.png?raw=true)
 
 # タイムテーブル
 
@@ -84,7 +73,7 @@ LTの中に困り事や問いかけを入れていただくと盛り上がるの
 19:40 | LT1~4（懇親会を挟む場合あり）
 20:20 | 休憩
 20:30 | LT5~7
-20:50 | まとめ 
+20:50 | まとめ
 21:00 | 懇親会
 22:00 | 解散
 

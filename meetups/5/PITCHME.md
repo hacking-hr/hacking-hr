@@ -37,8 +37,8 @@ tipsを共有したりディスカッションするミートアップ
 
 h-satsukiy | ttl | AyaShibaki | ksk1030 | y-minehisa
 --- | --- | --- | --- | ---
-![](https://avatars2.githubusercontent.com/u/40909062?s=200&v=3) | ![](https://avatars0.githubusercontent.com/u/1057490?s=200&v=3) | ![](https://avatars2.githubusercontent.com/u/42400921?s=200&v=3) | ![](https://avatars0.githubusercontent.com/u/16422265?s=200&v=3) |
-![](https://avatars2.githubusercontent.com/u/44672452?s=200&v=3)
+![](https://avatars1.githubusercontent.com/u/40909062?s=150&v=4) | ![](https://avatars0.githubusercontent.com/u/1057490?s=150&v=4) | ![](https://avatars2.githubusercontent.com/u/42400921?s=150&v=4) | ![](https://avatars1.githubusercontent.com/u/16422265?s=150&v=4) |
+![](https://avatars2.githubusercontent.com/u/44672452?s=150&v=4)
 
 ---
 
@@ -64,26 +64,26 @@ h-satsukiy | ttl | AyaShibaki | ksk1030 | y-minehisa
 ## LTs
 
 1. TBA
-  - by threetreeslight from Repro
-
-1. TBA
-  - by ryukku from Speee
+  - by Masaru Takei from Schoo
 
 1. TBA
   - by Keisuke Nakatani from ORSO
+
+1. TBA
+  - by Aya Shibaki from Roseau Pensant
 
 ---
 
 ## LTs
 
 1. TBA
-  - by Aya Shibaki from Roseau Pensant
+  - by ryukku from Speee  
 
 1. TBA
   - by Nabeharu from feedforce
 
 1. TBA
-  - by Masaru Takei from Schoo
+  - by Akishi Tanaka from KAYAC  
 
 ---
 
@@ -91,9 +91,9 @@ h-satsukiy | ttl | AyaShibaki | ksk1030 | y-minehisa
 
 時刻 | 詳細
 --- | ---
-19:40 | LT1~4
+19:40 | LT1~3
 20:20 | 休憩
-20:30 | LT5~7
+20:30 | LT4~6
 20:50 | まとめ
 21:00 | 懇親会
 
