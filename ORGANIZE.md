@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # HackingHR! organize workflow
 
 隔月第３木曜日に開催するHackingHR!における開催までの流れをまとめる。
@@ -6,12 +7,52 @@
 # Template
 
 ## Prepare contents
+=======
+# Organizerのお仕事
+
+毎月第3火曜日に開催するHacking HR!における開催までの流れをまとめる
+
+## contentsの準備
+
+1. 採用リード、採用プロセス、組織・KPI設計などテーマのcategoryを決定
+1. どのようなことについて話すか詳細案PR(`meetups/<num>/connpass.md`)作成し、関連メンバーでslack上（hackinghrs.slack.com）で詳細を詰める
+1. 社外の有識者およびReproそれぞれから１名以上のspeakerのattend
+1. 必要に応じてスピーカーの都合に合わせ開催日を調整し、開催日を確定
+
+## イベント公開に向けた準備・および公開
+
+最低でも開催3W前に公開すること
+
+1. connpassにLP作成
+1. [Hacking HR!の公開](https://hacking-hr.connpass.com/)の公開
+
+## イベントプロモーション
+
+1. organize.md, meetup.md, wantedly.mdなどのプロモーション資料の準備
+1. [Repro meetup group event](https://www.meetup.com/reproio/)
+1. [Repro wantedly feed](https://www.wantedly.com/companies/repro/feed)
+1. [Repro linkedin](https://www.linkedin.com/company/repro-inc-/)
+1. [Repro facebook group event](https://www.facebook.com/pg/reproio/events/)
+1. [Repro connpass group message](https://repro.connpass.com/)
+1. PR担当にtrelloより依頼 / [Repro facebook group](https://www.facebook.com/reproio/), Repro slack, [reproio twitter](https://twitter.com/reproio?lang=en)
+1. Speakerにtwitter, facebookなどのSNSでの拡散依頼
+
+## イベント1W前
+
+1. LT登壇者を、connppassのpresenterに追加
+1. LT枠が埋まっていなかったら知り合いに打診
+1. 必要に応じてconnpassの増枠
+1. LTを含むSpeakerよりタイトルを受領
+1. 各種SNS feedより再度告知
+1. 前回のKPTも活かしたintrocution, closing資料の準備
+>>>>>>> 56c2562d5d8f79197d64e16d835c3b2ba782d18e
 
 - [ ] テーマを決定
 - [ ] どのようなことについて話すか詳細案PR(`meetups/<num>/connpass.md`)作成し、関連メンバーで詳細を詰める
 - [ ] (optional)社外の有識者およびReproそれぞれから１名以上のspeakerのattend
 - [ ] speakerへTwitterのbio程度の文章量の自己紹介文作成を依頼
 
+<<<<<<< HEAD
 Repro外の開場を手配する場合は、以下の点を確認しておくこと
 
 - 座席数
@@ -87,6 +128,17 @@ To: Event Admins, Presenter, Attendees, Waitlist
 Body:
 この度はHackingHR!へご応募頂きありがとうございます！
 イベントの開催がいよいよ明日となりました。
+=======
+1. connpassより以下メッセージを送る
+1. ビール(1.5本/人)・酎ハイ(0.5本/人)の発注
+1. 乾き物(ハッピーターン、柿ピー、パイの実、コアラ、和菓子盛り合わせ的なものなど)の発注
+
+```txt
+subject: Hacking HR！ #<num> <theme>
+To: Event Admins, Presenter, Attendees, Waitlist
+Body:
+この度はHakcking HR！へご応募頂きありがとうございます！
+>>>>>>> 56c2562d5d8f79197d64e16d835c3b2ba782d18e
 開始スケジュールや場所は以下のとおりです。
 
 ## 開場・開始
@@ -104,6 +156,7 @@ google map: https://goo.gl/maps/t7NtRv4rUv92
 
 ## イベント当日の作業
 
+<<<<<<< HEAD
 
 カクヤスより飲み物受け取りのため、社外の会場でイベントをする場合は1h前より以下の作業を行う
 
@@ -138,3 +191,29 @@ google map: https://goo.gl/maps/t7NtRv4rUv92
 ## イベント終了後
 
 - [ ] 主催にてKPTの実施し、次回の改善点を決定
+=======
+1. 18:30
+    1. 会場設営の開始
+    1. よしなに音楽もかけておく
+    1. slidoも映しておく
+1. 19:00
+    1. 開場 & 受付。受付にはドリンクやステッカーを配置。
+1. 19:30
+    1. 集まりが悪い場合は少し(5-10min程度) 開始を遅らせる
+    1. 会の趣旨説明
+    1. ピザ発注（5名/枚）
+1. 19:40
+    1. LT開始
+    1. 発表やディスカッションのファシリテート
+    1. 休憩をちょっと挟む
+1. 20:50
+    1. slidoを用いたアンケート実施
+    1. 懇親会
+1. 22:00
+    1. 原状復帰
+
+## イベント終了後
+
+1. Organizer間でWeb MTGの日程を調整
+1. 主催にてKPTの実施し、次回の改善点、テーマを決定
+>>>>>>> 56c2562d5d8f79197d64e16d835c3b2ba782d18e
