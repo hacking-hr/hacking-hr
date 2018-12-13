@@ -63,26 +63,26 @@ h-satsukiy | ttl | AyaShibaki | ksk1030 | y-minehisa
 
 ## LTs
 
-1. TBA
+1. 2019年人事がやるべきことってなんだろう？
   - by Masaru Takei from Schoo
 
-1. TBA
+1. ほんとうのホラクラシーの始め方 〜scoutyが経験した間違いと改善〜
   - by Tesuya Ito from scouty
 
-1. TBA
+1. 承認欲求はただの表彰制度では満たされないことに気づいた話。
   - by Aya Shibaki from Roseau Pensant
 
 ---
 
 ## LTs
 
-1. TBA
+1. ソフトウェアを資産計上する話
   - by ryukku from Speee  
 
-1. TBA
+1. OKR成功の秘訣はカントリーマァムにあった
   - by Nabeharu from feedforce
 
-1. TBA
+1. カヤックの組織論は鎌倉や上野ではなく熱帯雨林にいったら理解できる
   - by Akishi Tanaka from KAYAC  
 
 ---
