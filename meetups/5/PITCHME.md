@@ -1,6 +1,6 @@
 ## Hacking HR! #5
 
-![](/assets/images/logo-transparent-small.png)
+![](/assets/images/logo-transparent-small-new.png)
 
 Hashtag: [`#hackinghrs`](https://twitter.com/hashtag/hackinghrs)
 
@@ -34,7 +34,7 @@ tipsを共有したりディスカッションするミートアップ
 ---
 
 ### ステッカー作ってます！
-![](/assets/images/logo.png)
+![](/assets/images/logo-transparent-new.png)
 
 ---
 
