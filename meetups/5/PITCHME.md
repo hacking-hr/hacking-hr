@@ -38,7 +38,9 @@ tipsを共有したりディスカッションするミートアップ
 
 ---
 
+@snap[north]
 ### サバイブしたい主催者
+@snapend
 
 @snap[west]
 ![](https://avatars1.githubusercontent.com/u/40909062?s=150&v=4)
