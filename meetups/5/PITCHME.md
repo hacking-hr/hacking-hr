@@ -82,6 +82,10 @@ tipsを共有したりディスカッションするミートアップ
 1. ほんとうのホラクラシーの始め方 〜scoutyが経験した間違いと改善〜
   - by Tesuya Ito from scouty
 
+---
+
+## LTs
+
 1. 承認欲求はただの表彰制度では満たされないことに気づいた話。
   - by Aya Shibaki from Roseau Pensant
   
