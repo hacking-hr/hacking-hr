@@ -84,6 +84,9 @@ tipsを共有したりディスカッションするミートアップ
 
 1. 承認欲求はただの表彰制度では満たされないことに気づいた話。
   - by Aya Shibaki from Roseau Pensant
+  
+1. 1on1の運用について
+  - by Shinse Tanaka from Diamond media 
 
 ---
 
