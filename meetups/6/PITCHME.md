@@ -33,12 +33,22 @@ tipsを共有したりディスカッションするミートアップ
 
 ---
 
-## サバイブしたい主催者
+@snap[north]
+### サバイブしたい主催者
+@snapend
 
-h-satsukiy | ttl | AyaShibaki | ksk1030 | y-minehisa
---- | --- | --- | --- | ---
-![](https://avatars1.githubusercontent.com/u/40909062?s=150&v=4) | ![](https://avatars0.githubusercontent.com/u/1057490?s=150&v=4) | ![](https://avatars2.githubusercontent.com/u/42400921?s=150&v=4) | ![](https://avatars1.githubusercontent.com/u/16422265?s=150&v=4) |
+@snap[west]
+![](https://avatars1.githubusercontent.com/u/40909062?s=150&v=4)
+<br>
+![](https://avatars0.githubusercontent.com/u/1057490?s=150&v=4) 
+@snapend 
+
+![](https://avatars2.githubusercontent.com/u/42400921?s=150&v=4)
+@snap[east]
+![](https://avatars1.githubusercontent.com/u/16422265?s=150&v=4)
+<br>
 ![](https://avatars2.githubusercontent.com/u/44672452?s=150&v=4)
+@snapend
 
 ---
 
