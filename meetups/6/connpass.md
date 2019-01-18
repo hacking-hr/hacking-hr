@@ -36,12 +36,20 @@ Hacking HR! は **startupの人事・採用などに携わる方** で集まり�
 
 # LTs
 
-**＼大募集中／**
+**＼絶賛大募集中／**
 
-### Kengo Iwata from repro
-![]()
+### Kengo Iwata（[@kengoiwt](https://twitter.com/kengoiwt)） from repro
+![](https://github.com/hacking-hr/hacking-hr/blob/master/assets/images/kengo.png?raw=true)
 
 「（仮）うちのエンプロイーオンボーディング 〜組織崩壊の憂き目と再生〜」
+
+noteで公開後、大反響となった、
+
+[「ReproのCSが直面した組織課題、困難。エンプロイーオンボーディングに取り組むまで」](https://note.mu/repro_cs/n/n7adfb5c919f9)
+
+[「スケールする組織を目指して。Repro CSチームのエンプロイーオンボーディングの軌跡」](https://note.mu/repro_cs/n/nae0c529b3739)
+
+その作者である岩田が、オンボーディングについて熱く語ります！
 
 
 # タイムテーブル
