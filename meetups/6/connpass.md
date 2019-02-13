@@ -97,6 +97,10 @@ GMO ペパボの執行役員CPO兼技術部長、「楽しさにはビジネス�
 
 神奈川県横浜市出身。工学院大学大学院工学研究科情報学専攻修士課程を修了し、2012年4月よりGMOペパボ株式会社にてソフトウェアエンジニアとして複数のWebサービスの開発を担当、2016年東京工業大学エンジニアリングデザインプロジェクト(EDP)にソフトウェアの専門家として参加。現在はテクニカルリードとしてSUZURIとSUZURI Peopleの開発およびエンジニアリング組織のマネージメントを行っている。
 
+### Kazuya Minobe from BizReach
+![](https://github.com/hacking-hr/hacking-hr/blob/master/meetups/4/images/kazuya-minobe.png?raw=true)
+
+
 ### yuka iwasaki from YOUTRUST
 ![](https://github.com/hacking-hr/hacking-hr/blob/master/assets/images/yuka.png?raw=true)
 
