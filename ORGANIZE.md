@@ -1,137 +1,201 @@
-# HackingHR! organize workflow
+## Hacking HR! #6
 
-隔月第３木曜日に開催するHackingHR!における開催までの流れをまとめる。
-本templateを元に実施のissueを作成し、進捗を管理する。
+![](/assets/images/logo-transparent-small.png)
 
-# Template
+Hashtag: [`#hackinghrs`](https://twitter.com/hashtag/hackinghrs)
 
-## Prepare contents
+---
 
-- [ ] テーマを決定
-- [ ] どのようなことについて話すか詳細案PR(`meetups/<num>/connpass.md`)作成し、関連メンバーで詳細を詰める
-- [ ] (optional)社外の有識者およびReproそれぞれから１名以上のspeakerのattend
-- [ ] speakerへTwitterのbio程度の文章量の自己紹介文作成を依頼
+## What's Hacking HR?
 
-Repro外の会場を手配する場合は、以下の点を確認しておくこと
+StartupのHR活動をハック!
 
-- [ ] 座席数
-- [ ] マイク・プロジェクターの数などの設備
-- [ ] 入館手続き
-- [ ] お酒の搬入時間およびその経路
-- [ ] Foodの搬入時間及びその経路
-- [ ] 準備開始可能時間および完全撤収時間
-- [ ] その他制約があればヒアリング
+tipsを共有したりディスカッションするミートアップ
 
-## Publish Event
+---
 
-最低でも開催3W前に公開すること
+## Why?
 
-- [ ] speakerより自己紹介文を回収
-- [ ] connpassへ公開準備を行い、speakerに最終チェックを依頼。期間は1日程度設ける。
-- [ ] 必要に応じてspeaker陣で目的やテーマについての意識合わせ、開催に伴う懸念点の払拭を目的としたkick-off (15min) on video chatを開催する
-- [ ] [HackingHR! connpass](https://hacking-hr.connpass.com/)の公開
+1. スタートアップにおける人事担当者の活動は多様！だがリソースも才能も有限
+1. 会社の状況を正しく把握し、その成長のドライバーは何であるか見極め行動することが求めらる
 
-## Promotion
+---
 
-- [ ] [HackingHR! facebook group event](https://www.facebook.com/groups/hackinghr/events/)
-- [ ] Speakerにtwitter, facebookなどのSNSでの拡散
+## 無理ゲー
 
-## 2 week before
+![](/meetups/1/meme-oh-2.png)
 
-- [ ] LT枠が埋まっていなかったら知り合いに打診
-- [ ] 必要に応じてconnpassの増枠
-- [ ] LTを含むSpeakerよりタイトルを受領
-- [ ] 各種SNS feedより再度告知
-- [ ] 前回のKPTも活かしたintrocution, closing資料の準備
+---
 
-LTを含むSpeakerよりタイトルを受領
+## なので
 
-```
-イベント開催が迫ってまいりましたので、そろそろ発表タイトルを公開したいなぁと思っています✨
+活動をハックするtipsを共有・ディスカッションして一緒にサバイブしましょう！
 
-仮でも全然構いませんので、タイトルを共有頂けたら嬉しいです🙏
-```
+---
 
+そして、、、
 
-## 1 day before
+### 🎊Hacking HR! blog 爆誕🎉
 
-- [ ] Repro以外の会場の場合、以下をpackingする
-    - Repro ステッカー * 100-200枚
-    - Repro Tシャツ S*1, M*2, L*2, XL*1
-    - Reproテーブルクロス * 1枚
-    - 残り時間表示用の紙(1,2,3,5 min to end)
-    - クロス固定用洗濯ばさみ * 1set
-    - 8口電源タップ * 1個
-    - 太めのサインペン * 1本
-    - 養生テープ * 1 roll
-    - 45Lゴミ袋 * 1 set
-    - ウェットティッシュ * 1 set
-    - 以下Option
-        - 道案内用の紙 * 1-2
-        - 譜面スタンド
-        - chrome cast * 1
-        - google home * 1
-- 在庫状況に応じて以下を発注
-    - [ ] ビール、チューハイ、ハイボールなどの飲み物の発注
-      - 必要なお酒ケース数 = `開催1日前の申込者数 * 当日キャンセルしない率 0.9 * 実参加率 0.7 * 一人あたりの平均消費缶 1.8 / 24`
-      - 注文比率: `(ビール : チューハイ : ハイボール(オプション)) = (3 : 1 : 1)`
-    - [ ] 乾き物(ハッピーターン、柿ピー、パイの実、コアラ、和菓子盛り合わせ的なものなど)の発注
-- [ ] connpassより以下メッセージを送る
+---
 
-```txt
-subject: HackingHR! #<num> <theme>
-To: Event Admins, Presenter, Attendees, Waitlist
-Body:
-この度はHackingHR!へご応募頂きありがとうございます！
-イベントの開催がいよいよ明日となりました。
-開始スケジュールや場所は以下のとおりです。
+海外blogなどから最新のHRトレンド情報を
 
-## 開場・開始
+みなさんにお届けします！
 
-開場: 19:00
-スタート: 19:30
+---
 
-## 場所
+@snap[north]
+### サバイブしたい主催者
+@snapend
 
-東京都渋谷区代々木1丁目36-4 全理連ビル 6階
-google map: https://goo.gl/maps/t7NtRv4rUv92
+@snap[west]
+![](https://avatars1.githubusercontent.com/u/40909062?s=150&v=4)
+<br>
+![](https://avatars0.githubusercontent.com/u/1057490?s=150&v=4)
+@snapend
 
-それではイベントでお会い出来ることを楽しみにしています✨
-```
+![](https://avatars2.githubusercontent.com/u/42400921?s=150&v=4)
+@snap[east]
+![](https://avatars1.githubusercontent.com/u/16422265?s=150&v=4)
+<br>
+![](https://avatars2.githubusercontent.com/u/44672452?s=150&v=4)
+@snapend
 
-## イベント当日の作業
+---
 
+## 🎉 スポンサー 👏
 
-カクヤスより飲み物受け取りのため、社外の会場でイベントをする場合は1h前より以下の作業を行う
+会場・フード・ドリンク
 
-- スタッフ分担(優先度順)
-    - [ ] 会のファシリテート(質問、タイムキープ) * 1名
-        - 場合によっては分担する
-    - [ ] アテンド * 1-2名
-    - [ ] 会場誘導・登壇者のサポート・Food発注 * 1名
-        - 会場の広さによっては会場誘導にもう1名必要となる可能性がある
-- スタッフはなるべく散らばって座る
-- 会場設営(開場1h前, Reproの場合は30min前)
-    - [ ] (optional) 道案内スタンドの設置
-    - [ ] 受付の設置・クロス・stickerの配置
-    - [ ] 受付デスクもしくは近くテーブルにビールやおつまみの配置
-    - [ ] 営時に背中を向けて座らない & 座席の間が空き過ぎないようにする。ただし、この作業は原状復帰までの時間が十分に確保できるときに限る
-    - [ ] 設営完了後、その状態をSNSに拡散し開場していることを知らせる
-- アテンド作業
-    - connpass ID もしくは名前を確認し、connpass上のアテンドをする
-    - stickerやお酒を案内
-    - 奥から詰めて座ってもらうよう案内
-    - (optional) 規模次第だが、参加者にはネックストラップを配布し、handleやエンジニア OR PM/Directorなどやってることを書いてもらう
-- [ ] 登壇者・LT社については接続確認
-- 開始
-    - [ ] 必要に応じて開始を5-10min遅らせる
-    - [ ] (optional)実参加人数に合わせ、Foodを発注
-- セッション開始
-    - [ ] google homeのtimer機能を利用してtime keep
-- 懇親前
-    - [ ] (optional)Tシャツプレセント大会
-    - [ ] 会場参加者の力を借りてFoodとお酒を展開
+![](/assets/images/sponsers/repro-logo-colored.png)
 
-## イベント終了後
+---
 
-- [ ] 主催にてKPTの実施し、次回の改善点を決定
+## Today's Theme
+
+---
+
+### オンボーディング・オフボーディング
+
+いかにしてオンボーディングが失敗し、オフボーディングが生み出されてしまったか、などなど
+失敗談・体験談・施策談について赤裸々に話しましょう。
+
+---
+
+## LTs
+
+---
+
+Kengo Iwata from repro
+
+![](https://github.com/hacking-hr/hacking-hr/blob/master/assets/images/kengo.png?raw=true)
+
+「（仮）うちのエンプロイーオンボーディング 〜組織崩壊の憂き目と再生〜」
+
+---
+
+kurotaky from GMO Pepabo
+
+![](https://github.com/hacking-hr/hacking-hr/blob/master/assets/images/kurotaki.png?raw=true)
+
+「誰のためのオンボーディング？」
+
+---
+
+Kazuya Minobe from BizReach
+
+![](https://github.com/hacking-hr/hacking-hr/blob/master/meetups/4/images/kazuya-minobe.png?raw=true)
+
+「」
+
+---
+
+Yuka Iwasaki from YOUTRUST
+
+![](https://github.com/hacking-hr/hacking-hr/blob/master/assets/images/yuka.png?raw=true)
+
+「副業メンバーのオンボーディング」
+
+---
+
+hsbt from GMO Pepabo
+
+![](https://github.com/hacking-hr/hacking-hr/blob/master/assets/images/shibata.png?raw=true)
+
+「Social Inclusion for Engineering Organization」
+
+---
+
+Shigeyoshi Matsuo from intage
+
+![](https://github.com/hacking-hr/hacking-hr/blob/master/assets/images/matsuo.png?raw=true)
+
+「オンボーディングっていうと難しそうだから、どうしたらスムーズに入っていきやすいか(受け入れやすいか)、くらいで話します(仮)」
+
+---
+
+## Time table
+
+時刻 | 詳細
+--- | ---
+19:40 | LT1~3
+20:20 | 休憩
+20:30 | LT4~6
+20:50 | まとめ
+21:00 | 懇親会
+
+---
+
+## Q&A
+
+👉　[slido.com](https://wall2.sli.do/event/pp6bintk) #G616
+
+- 発表後に軽くQAタイムを設けたいと思っています
+- slidoを使って随時質問ください
+
+---
+
+## Facilities
+
+- WiFiあります。SSID/PWは前の方においてあるプラカードを参照ください
+- トイレは会場を出て突き当り左にあります
+- 喫煙所は9Fにあります
+- 寒かったり暑かったりしたら twitter #hackinghrs で教えてください
+
+---
+
+## 注意事項
+
+- どなたでもイベントの様子を撮影し、ブログやSNSなどで公開可能としています点をご了承ください。
+- 公演中の写真撮影は特に禁止しておりませんが良識の範囲内でお願いいたします。
+
+---
+
+早速始めていきましょう！
+
+# カンパーイ
+# 🍻🍻🍻
+
+---
+
+## 楽しめましたか？
+
+---
+
+# 多謝
+
+---
+
+# 🙏
+
+懇親会準備にお手伝いにご協力ください
+
+1. 椅子を前に寄せて頂く
+1. 食べ物・飲み物のデプロイ
+
+---
+
+# 🍻🍻🍻
+# カンパーイ
+# 🍻🍻🍻
