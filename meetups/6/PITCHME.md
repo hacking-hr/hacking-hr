@@ -75,11 +75,11 @@ tipsを共有したりディスカッションするミートアップ
 
 ---
 
-hsbt from GMO Pepabo
+Kengo Iwata from repro
 
-![](https://github.com/hacking-hr/hacking-hr/blob/master/assets/images/shibata.png?raw=true)
+![](https://github.com/hacking-hr/hacking-hr/blob/master/assets/images/kengo.png?raw=true)
 
-「Social Inclusion for Engineering Organization」
+「（仮）うちのエンプロイーオンボーディング 〜組織崩壊の憂き目と再生〜」
 
 ---
 
@@ -107,11 +107,11 @@ Yuka Iwasaki from YOUTRUST
 
 ---
 
-Kengo Iwata from repro
+hsbt from GMO Pepabo
 
-![](https://github.com/hacking-hr/hacking-hr/blob/master/assets/images/kengo.png?raw=true)
+![](https://github.com/hacking-hr/hacking-hr/blob/master/assets/images/shibata.png?raw=true)
 
-「（仮）うちのエンプロイーオンボーディング 〜組織崩壊の憂き目と再生〜」
+「Social Inclusion for Engineering Organization」
 
 ---
 
