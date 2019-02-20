@@ -100,6 +100,7 @@ Kazuya Minobe from BizReach
 ---
 
 Yuka Iwasaki from YOUTRUST
+
 ![](https://github.com/hacking-hr/hacking-hr/blob/master/assets/images/yuka.png?raw=true)
 
 「副業メンバーのオンボーディング」
