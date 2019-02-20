@@ -1,3 +1,6 @@
+# Hacking HR！ステッカーが完成しました！
+イベント当日に、ぜひお持ち帰りください。
+
 # 1/31 増枠しました！
 # 1/25 増枠しました！
 
@@ -38,8 +41,6 @@ Hacking HR! は **startupの人事・採用などに携わる方、または人�
 
 # LTs
 
-**＼絶賛大募集中／**
-
 ### Kengo Iwata（[@kengoiwt](https://twitter.com/kengoiwt)） from repro
 ![](https://github.com/hacking-hr/hacking-hr/blob/master/assets/images/kengo.png?raw=true)
 
@@ -53,14 +54,43 @@ noteで公開後、大反響となった、
 
 その作者である岩田が、オンボーディングについて熱く語ります！
 
-### [threetreeslight](https://twitter.com/threetreeslight) from Repro
+### [kurotaky](https://twitter.com/kurotaky) from GMO Pepabo
+![](https://github.com/hacking-hr/hacking-hr/blob/master/assets/images/kurotaki.png?raw=true)
 
-![](https://pbs.twimg.com/profile_images/668402457978908672/2bdWkA5R_200x200.jpg)
+「誰のためのオンボーディング？」
 
-「（仮）海外サービスから学ぶ、オンボーディングの最新トレンド」
+神奈川県横浜市出身。工学院大学大学院工学研究科情報学専攻修士課程を修了し、2012年4月よりGMOペパボ株式会社にてソフトウェアエンジニアとして複数のWebサービスの開発を担当、2016年東京工業大学エンジニアリングデザインプロジェクト(EDP)にソフトウェアの専門家として参加。現在はテクニカルリードとしてSUZURIとSUZURI Peopleの開発およびエンジニアリング組織のマネージメントを行っている。
 
-音楽系、メディア系スタートアップの立ち上げや国内EC、越境EC企業でのエンジニアマネージャーを経て、モバイルアプリ・ウェブ向けのマーケティングオートメーションサービスを提供するReproを共同創業。
-現在はReproのVP of Engineeringとして、グローバル進出を見据えたイケてる組織づくりに従事。
+### Kazuya Minobe from BizReach
+![](https://github.com/hacking-hr/hacking-hr/blob/master/meetups/4/images/kazuya-minobe.png?raw=true)
+
+「ユーザーオンボーディングに命をかける「カスタマーサクセスチーム流」メンバーオンボーディング」
+
+HRMOS 採用管理事業部 カスタマーサクセス部
+マネージャー 美濃部 和也
+
+ニューヨーク州立大学卒業後、コンサルティングファーム、広告代理店にてマーケティングコミュニケーションに従事。HR、IR、PR の分野の営業、プランナー、コンサルタントを経て 2016 年 4 月、新規事業開発メンバーとしてビズリーチに入社。
+
+ローンチから間もない HRMOS 採用管理のカスタマーサクセスチームを立ち上げる。導入直後のオンボーディングから日々のコンサルティング、プロダクト改善や契約継続にいたるまでのフォローなどを実践しながら業務を設計。顧客の採用成功を目指し、個性豊かなメンバーとともにカスタマーサクセス活動に奔走している。
+
+
+### Yuka Iwasaki from YOUTRUST
+![](https://github.com/hacking-hr/hacking-hr/blob/master/assets/images/yuka.png?raw=true)
+
+「副業メンバーのオンボーディング」
+
+大阪大学理学部を卒業後、2012年に株式会社ディー・エヌ・エーに新卒入社。1年目より新卒採用、中途採用、経営管理を経験。その後、株式会社ペロリに出向し経営企画を担当。2017年12月に株式会社YOUTRUSTを設立。
+
+「信頼される人が報われる転職市場に」をミッションに掲げる。
+
+### [hsbt](https://twitter.com/hsbt) from GMO Pepabo
+![](https://github.com/hacking-hr/hacking-hr/blob/master/assets/images/shibata.png?raw=true)
+
+「Social Inclusion for Engineering Organization」
+
+Ruby コアチームのメンバーの一人、RubyGems, Bundler, Psych, ruby-build など多数の OSS のメンテナを務める。ruby-lang.org の管理者としてプログラミング言語 Ruby の開発をサポートしている。
+
+GMO ペパボの執行役員CPO兼技術部長、「楽しさにはビジネス価値がある」を信じて、組織の生産性を高めることをミッションとしている。
 
 ### Shigeyoshi Matsuo from intage
 
@@ -85,28 +115,6 @@ NTTコムウェア HCMソリューション部、キャプラン キャリアコ
 
 [エンジニアの「当事者意識」を大切にする、テクノロジーカンパニー「クックパッド」の人事のしくみ（後編）](https://jinjibu.jp/hrt/article/detl/techactivities/1529/)
 
-### [hsbt](https://twitter.com/hsbt) from GMO Pepabo
-![](https://github.com/hacking-hr/hacking-hr/blob/master/assets/images/shibata.png?raw=true)
-
-Ruby コアチームのメンバーの一人、RubyGems, Bundler, Psych, ruby-build など多数の OSS のメンテナを務める。ruby-lang.org の管理者としてプログラミング言語 Ruby の開発をサポートしている。
-
-GMO ペパボの執行役員CPO兼技術部長、「楽しさにはビジネス価値がある」を信じて、組織の生産性を高めることをミッションとしている。
-
-### [kurotaky](https://twitter.com/kurotaky) from GMO Pepabo
-![](https://github.com/hacking-hr/hacking-hr/blob/master/assets/images/kurotaki.png?raw=true)
-
-神奈川県横浜市出身。工学院大学大学院工学研究科情報学専攻修士課程を修了し、2012年4月よりGMOペパボ株式会社にてソフトウェアエンジニアとして複数のWebサービスの開発を担当、2016年東京工業大学エンジニアリングデザインプロジェクト(EDP)にソフトウェアの専門家として参加。現在はテクニカルリードとしてSUZURIとSUZURI Peopleの開発およびエンジニアリング組織のマネージメントを行っている。
-
-### Kazuya Minobe from BizReach
-![](https://github.com/hacking-hr/hacking-hr/blob/master/meetups/4/images/kazuya-minobe.png?raw=true)
-
-
-### yuka iwasaki from YOUTRUST
-![](https://github.com/hacking-hr/hacking-hr/blob/master/assets/images/yuka.png?raw=true)
-
-大阪大学理学部を卒業後、2012年に株式会社ディー・エヌ・エーに新卒入社。1年目より新卒採用、中途採用、経営管理を経験。その後、株式会社ペロリに出向し経営企画を担当。2017年12月に株式会社YOUTRUSTを設立。
-
-「信頼される人が報われる転職市場に」をミッションに掲げる。
 
 # タイムテーブル
 
