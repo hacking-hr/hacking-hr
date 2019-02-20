@@ -73,15 +73,47 @@ tipsを共有したりディスカッションするミートアップ
 
 ## LTs
 
-1. （仮）うちのエンプロイーオンボーディング 〜組織崩壊の憂き目と再生〜
-  - by Kengo Iwata from repro
+---
+
+### hsbt from GMO Pepabo
+![](https://github.com/hacking-hr/hacking-hr/blob/master/assets/images/shibata.png?raw=true)
+
+「Social Inclusion for Engineering Organization」
 
 ---
 
-## LTs
+### kurotaky from GMO Pepabo
+![](https://github.com/hacking-hr/hacking-hr/blob/master/assets/images/kurotaki.png?raw=true)
 
-1. ○○
-  - by aaa from bbb  
+「誰のためのオンボーディング？」
+
+---
+
+### Kazuya Minobe from BizReach
+![](https://github.com/hacking-hr/hacking-hr/blob/master/meetups/4/images/kazuya-minobe.png?raw=true)
+
+「」
+
+---
+
+### Yuka Iwasaki from YOUTRUST
+![](https://github.com/hacking-hr/hacking-hr/blob/master/assets/images/yuka.png?raw=true)
+
+「副業メンバーのオンボーディング」
+
+---
+
+### Kengo Iwata from repro
+![](https://github.com/hacking-hr/hacking-hr/blob/master/assets/images/kengo.png?raw=true)
+
+「（仮）うちのエンプロイーオンボーディング 〜組織崩壊の憂き目と再生〜」
+
+---
+
+### Shigeyoshi Matsuo from intage
+![](https://github.com/hacking-hr/hacking-hr/blob/master/assets/images/matsuo.png?raw=true)
+
+「オンボーディングっていうと難しそうだから、どうしたらスムーズに入っていきやすいか(受け入れやすいか)、くらいで話します(仮)」
 
 ---
 
@@ -99,10 +131,10 @@ tipsを共有したりディスカッションするミートアップ
 
 ## Q&A
 
-👉　[slido.com](https://wall2.sli.do/event/pp6bintk) #X633
+👉　[slido.com](https://wall2.sli.do/event/pp6bintk) #G616
 
 - 発表後に軽くQAタイムを設けたいと思っています
-- slido, twitterを使って随時質問ください
+- slidoを使って随時質問ください
 
 ---
 
