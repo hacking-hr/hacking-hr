@@ -35,7 +35,7 @@ tipsを共有したりディスカッションするミートアップ
 
 そして、、、
 
-### 🎊Hacking HR! blog 爆誕🎉
+## 🎊Hacking HR! blog 爆誕🎉
 
 ---
 
