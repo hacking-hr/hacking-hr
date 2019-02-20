@@ -75,42 +75,47 @@ tipsを共有したりディスカッションするミートアップ
 
 ---
 
-### hsbt from GMO Pepabo
+hsbt from GMO Pepabo
+
 ![](https://github.com/hacking-hr/hacking-hr/blob/master/assets/images/shibata.png?raw=true)
 
 「Social Inclusion for Engineering Organization」
 
 ---
 
-### kurotaky from GMO Pepabo
+kurotaky from GMO Pepabo
+
 ![](https://github.com/hacking-hr/hacking-hr/blob/master/assets/images/kurotaki.png?raw=true)
 
 「誰のためのオンボーディング？」
 
 ---
 
-### Kazuya Minobe from BizReach
+Kazuya Minobe from BizReach
+
 ![](https://github.com/hacking-hr/hacking-hr/blob/master/meetups/4/images/kazuya-minobe.png?raw=true)
 
 「」
 
 ---
 
-### Yuka Iwasaki from YOUTRUST
+Yuka Iwasaki from YOUTRUST
 ![](https://github.com/hacking-hr/hacking-hr/blob/master/assets/images/yuka.png?raw=true)
 
 「副業メンバーのオンボーディング」
 
 ---
 
-### Kengo Iwata from repro
+Kengo Iwata from repro
+
 ![](https://github.com/hacking-hr/hacking-hr/blob/master/assets/images/kengo.png?raw=true)
 
 「（仮）うちのエンプロイーオンボーディング 〜組織崩壊の憂き目と再生〜」
 
 ---
 
-### Shigeyoshi Matsuo from intage
+Shigeyoshi Matsuo from intage
+
 ![](https://github.com/hacking-hr/hacking-hr/blob/master/assets/images/matsuo.png?raw=true)
 
 「オンボーディングっていうと難しそうだから、どうしたらスムーズに入っていきやすいか(受け入れやすいか)、くらいで話します(仮)」
