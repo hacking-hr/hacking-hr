@@ -1,6 +1,6 @@
 ## Hacking HR! #6
 
-![](/assets/images/logo-transparent-small.png)
+![](/assets/images/logo-transparent-new.png)
 
 Hashtag: [`#hackinghrs`](https://twitter.com/hashtag/hackinghrs)
 
