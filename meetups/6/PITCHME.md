@@ -33,18 +33,6 @@ tipsを共有したりディスカッションするミートアップ
 
 ---
 
-そして、、、
-
-## 🎊Hacking HR! blog 爆誕🎉
-
----
-
-海外blogなどから最新のHRトレンド情報を
-
-みなさんにお届けします！
-
----
-
 @snap[north]
 ### サバイブしたい主催者
 @snapend
@@ -85,53 +73,27 @@ tipsを共有したりディスカッションするミートアップ
 
 ## LTs
 
----
+1. (仮）うちのエンプロイーオンボーディング 〜組織崩壊の憂き目と再生〜
+  - Kengo Iwata from Repro
 
-Kengo Iwata from repro
+1. 誰のためのオンボーディング？
+  - kurotaky from GMO Pepabo
 
-![](https://github.com/hacking-hr/hacking-hr/blob/master/assets/images/kengo.png?raw=true)
-
-「（仮）うちのエンプロイーオンボーディング 〜組織崩壊の憂き目と再生〜」
-
----
-
-kurotaky from GMO Pepabo
-
-![](https://github.com/hacking-hr/hacking-hr/blob/master/assets/images/kurotaki.png?raw=true)
-
-「誰のためのオンボーディング？」
+1. ユーザーオンボーディングに命をかける「カスタマーサクセスチーム流」メンバーオンボーディング
+  - Kazuya Minobe from BizReach
 
 ---
 
-Kazuya Minobe from BizReach
+## LTs
 
-![](https://github.com/hacking-hr/hacking-hr/blob/master/meetups/4/images/kazuya-minobe.png?raw=true)
+1. 副業メンバーのオンボーディング
+  - Yuka Iwasaki from YOUTRUST
 
-「」
+1. Social Inclusion for Engineering Organization
+  - hsbt from GMO Pepabo
 
----
-
-Yuka Iwasaki from YOUTRUST
-
-![](https://github.com/hacking-hr/hacking-hr/blob/master/assets/images/yuka.png?raw=true)
-
-「副業メンバーのオンボーディング」
-
----
-
-hsbt from GMO Pepabo
-
-![](https://github.com/hacking-hr/hacking-hr/blob/master/assets/images/shibata.png?raw=true)
-
-「Social Inclusion for Engineering Organization」
-
----
-
-Shigeyoshi Matsuo from intage
-
-![](https://github.com/hacking-hr/hacking-hr/blob/master/assets/images/matsuo.png?raw=true)
-
-「オンボーディングっていうと難しそうだから、どうしたらスムーズに入っていきやすいか(受け入れやすいか)、くらいで話します(仮)」
+1. オンボーディングっていうと難しそうだから、どうしたらスムーズに入っていきやすいか(受け入れやすいか)、くらいで話します(仮)
+  - Shigeyoshi Matsuo from intage
 
 ---
 
