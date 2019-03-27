@@ -7,7 +7,7 @@ Hacking HR! は **startupの人事・採用などに携わる方、または人�
 ### ステッカーもあります！
 
 イベント当日に、ぜひお持ち帰りください。
-![](https://github.com/hacking-hr/hacking-hr/blob/master/meetups/7/stecker.png?raw=true)
+![](https://github.com/hacking-hr/hacking-hr/blob/master/meetups/7/stecker.jpg?raw=true)
 
 # テーマ：乱世を勝ち抜く採用ブランディング
 
