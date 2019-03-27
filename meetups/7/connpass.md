@@ -1,24 +1,13 @@
-# Hacking HR！ステッカーが完成しました！
-イベント当日に、ぜひお持ち帰りください。
-
 # Hacking HRとは?
 
 Hacking HR! は **startupの人事・採用などに携わる方、または人事に限らず関連する業務に携わっている、もしくは興味がある方** で集まり、明日を生き抜くためにスタートアップにおける活動をハックし、tipsを共有・ディスカッションすることを目的としています。
 
-また、オーガーナイザーを募集しております！興味がある方がいましたら懇親会にてお声がけください。Facebookグループへのご参加も、お待ちしております！ https://www.facebook.com/groups/2084888991577412/
+また、オーガーナイザーを募集しております！興味がある方がいましたら懇親会にてお声がけください。[Facebookグループへのご参加](https://www.facebook.com/groups/2084888991577412/)も、お待ちしております！
 
-### 過去イベント
+### ステッカーもあります！
 
-- vol6 [オンボーディング・オフボーディング](https://hacking-hr.connpass.com/event/117036/)
-- vol5 [2018's 年忘れ酔いどれLT大会！](https://hacking-hr.connpass.com/event/110450/)
-- vol4 [マイ・ベスト・オブ採用管理](https://hacking-hr.connpass.com/event/103909/)
-- vol3 リファラルを学ぶ！リファラル入社しちゃったぞLT会
-    - [Hacking HR!#3 に参加したので内容をまとめてみた！](http://hoozm.hatenablog.com/entry/2018/09/26/015431)
-- vol2 実録！「採用」業務の失敗談
-    - [Hacking HR!#2 イベントレポート公開](https://www.wantedly.com/companies/repro/post_articles/134086)
-- vol1 Hack Recruiting Media!
-    - [【登壇スライドあり】人生初LT登壇！Wantedlyの運用のこと話したよ！緊張した！！！でも楽しかった！](https://www.wantedly.com/companies/dip/post_articles/127060])
-    - [【採用担当者必見】採用メディアを上手く活用している5つの事例をまとめてご紹介！](https://hcm-jinjer.com/media/contents/b-contents-saiyo-hack1-180814/)
+イベント当日に、ぜひお持ち帰りください。
+![](https://github.com/hacking-hr/hacking-hr/blob/master/meetups/7/stecker.png?raw=true)
 
 # テーマ：乱世を勝ち抜く採用ブランディング
 
@@ -29,11 +18,12 @@ Hacking HR! は **startupの人事・採用などに携わる方、または人�
 
 また、一生懸命こちらから口説いて入社を決めてくれた候補者が早期退職を決めたとき、どうしてはじめからもっとお互いのことを理解し合えなかったのだろうと後悔することはありませんか？
 
-採用ブランディングは、そんな自社の悩みを解消していく大きな一手となることは間違いありません。
+採用ブランディングはこれらの問題に対して一定の効果を出すと言われていますが、本当なのでしょうか？
+本当だとしたら、他社はどんな取り組みを行っているのでしょうか？
 
-そこで今回のHacking HR!では、独自の採用ブランディング手法を用い、この超売り手市場で結果を出してきた方々にLT登壇していただきます。
+今回のHacking HR!では、独自の採用ブランディングを行い、この超売り手市場で結果を出してきた方々から知恵を授かり、自社に会った採用ブランディングを考える場としたいと思います。
 
-各社の事例を通し、きっと皆さんが明日からすぐに自社で活かせるtipsが得られるはずです。
+果たして、採用ブランディングは銀の弾丸となりえるでしょうか！？
 
 
 > ### LT（ライトニングトーク）とは
@@ -42,7 +32,7 @@ Hacking HR! は **startupの人事・採用などに携わる方、または人�
 # LTs
 
 ### Dan Koike from wantedly
-![]()
+![](https://github.com/hacking-hr/hacking-hr/blob/master/meetups/7/koike.png?raw=true)
 
 「TBA」
 
@@ -50,19 +40,16 @@ Wantedly, Inc.社Business Hiring Manager/Aeriarl Partners Inc. 人事マネー�
 
 名古屋出身。2018年1月にウォンテッドリー初のビジネス専任人事採用担当としてジョイン。ビジネス組織の採用/教育/文化醸成等に関わる。並行して仮想通貨税務スタートアップの外部人事マネージャーとして採用立上げや評価制度の設計を行ったり、スタートアップの採用立上げにコンサルとし入っている。
 
+### Ryo Nishimaru from mercari
+![](https://github.com/hacking-hr/hacking-hr/blob/master/meetups/7/nishimaru.png?raw=true)
+
+「TBA」
+
+西丸亮（株式会社メルカリ People Branding）
+福島県出身。中央大学大学院を修了後、株式会社スマイルズへ入社し、店舗運営やWeb社内報の運営・企画・執筆に携わる。その後、株式会社CINRAに転職。クリエイティブ業界の求人サイト「CINRA.JOB」の企画・編集などに従事。2018年、株式会社メルカリに入社。「人」に関わるブランディング業務全般を担うPeople Brandingチームに所属している。
 
 ### johnny from FastGrow
-![]()
-
-「TBA」
-
-### Ryo Nishimaru from mercari
-![]()
-
-「TBA」
-
-### Tatsuya Oshiro from bitflyer
-![]()
+![](https://github.com/hacking-hr/hacking-hr/blob/master/meetups/7/johnny.png?raw=true)
 
 「TBA」
 
