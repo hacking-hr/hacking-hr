@@ -39,9 +39,10 @@ Hacking HR! は **startupの人事・採用などに携わる方、または人�
 
 「TBA」
 
-Wantedly, Inc.社Business Hiring Manager/Aeriarl Partners Inc. 人事マネージャー
-
-名古屋出身。2018年1月にウォンテッドリー初のビジネス専任人事採用担当としてジョイン。ビジネス組織の採用/教育/文化醸成等に関わる。並行して仮想通貨税務スタートアップの外部人事マネージャーとして採用立上げや評価制度の設計を行ったり、スタートアップの採用立上げにコンサルとし入っている。
+ウォンテッドリー株式会社　Recruitment Marketing Evangelist / Business Hiring Manager
+Aerial Partners Inc. 人事マネージャー
+小池　弾
+名古屋出身。大手SIer、HRスタートアップを経て、2018年1月にウォンテッドリーのビジネス採用担当としてジョイン。現在は、ビジネスサイドのHR責任者として、組織の採用/教育/文化醸成等に関わりながら、エバンジェリストとしてリクルートメントマーケティングに関する啓蒙を行なっている。並行してFintech企業の外部人事責任者として採用立上げや評価制度の設計を行っている。
 
 ### Ryo Nishimaru from mercari
 ![](https://github.com/hacking-hr/hacking-hr/blob/master/meetups/7/nishimaru.png?raw=true)
