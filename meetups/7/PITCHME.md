@@ -2,8 +2,8 @@
 
 ![](/assets/images/logo-transparent-new.png)
 
-## ssid repro-guest
-## pass repro-2016-11-29
+## ssid: repro-guest
+## pass: repro-2016-11-29
 
 Hashtag: [`#hackinghrs`](https://twitter.com/hashtag/hackinghrs)
 
