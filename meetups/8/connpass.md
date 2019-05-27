@@ -31,11 +31,14 @@ Hacking HR! は **startupの人事・採用などに携わる方、または人�
 
 # LTs
 
-### TBA from xxx
+### Jackie from mercari
+![](https://github.com/hacking-hr/hacking-hr/blob/master/meetups/8/jackie.png?raw=true)
 
 「TBA」
 
-aaaaa
+2008年に京都大学大学院を卒業後、新卒で楽天に入社。新規開拓営業や人材ビジネスを経て、楽天のエンジニア採用全般を担当。
+世界25カ国での採用活動実績などが認められ、「世界の高度IT人材（エンジニア）の日本国内での採用に向けた先進的手法の確立に向けて」というテーマにてHRチャレンジ大賞受賞。
+2018年8月からメルカリに入社し新卒採用マネージャーや人事企画、HRBPとしてグローバル採用の拡大等に注力している。
 
 # タイムテーブル
 
