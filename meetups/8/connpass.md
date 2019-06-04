@@ -39,13 +39,13 @@ Hacking HR! は **startupの人事・採用などに携わる方、または人�
 2018年8月からメルカリに入社し新卒採用マネージャーや人事企画、HRBPとしてグローバル採用の拡大等に注力している。
 
 ### Koki Mitekura from JLBC
-![](https://github.com/hacking-hr/hacking-hr/blob/master/meetups/8/mitekura.png?raw=true)
+![](https://github.com/hacking-hr/hacking-hr/blob/master/meetups/8/mitekura.jpg?raw=true)
 
 1992年生まれ。福岡大学在学中に訪れたベトナムで日本語学校の設立・運営に1年以上携わる。経営が軌道に乗ったタイミングで現地起業家に経営を譲渡。帰国後、2015年7月に株式会社ガイダー（現株式会社Glowing）を創業、海外インターンの企画運営事業にて大手企業等と提携し、3年間で述べ1万人以上の学生エントリーを誇る事業に育てる。
 その後、「日本で働きたい外国人ITエンジニアにとって日本語が壁になっている」ことを知り、日本のITエンジニア不足問題緩和のためにJLBCを着想。日本語講師の増田文氏との出会いにより、2019年5月に株式会社JLBCを設立。現在に至る。
 
 ### Hiroaki Yamazaki from ReferMe
-![](https://github.com/hacking-hr/hacking-hr/blob/master/meetups/8/yamazaki.png?raw=true)
+![](https://github.com/hacking-hr/hacking-hr/blob/master/meetups/8/yamazaki.jpg?raw=true)
 
 2010年に明治大学を卒業後、新卒でCTCにインフラエンジニアとして入社。日本郵便のシステム開発・運用に従事。その後、リクルートキャリアへ転職し、エンジニア専門のキャリアアドバイザーとして、入社3か月でMVPを受賞し、約1,000人のエンジニア転職を支援。3社目のDonutsでは新卒・中途採用から新卒研修を担当。
 現在はHRプラットフォームサービスのレファミーへ転職し、国内・グローバル人材紹介事業の拡大に注力。
