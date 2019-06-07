@@ -66,9 +66,26 @@ Hacking HR! は **startupの人事・採用などに携わる方、または人�
 # 会場
 ### リニューアルしました！
 
-Repro株式会社 イベントスペース （渋谷区代々木1-36-4 全理連ビル4F　代々木駅北口徒歩30秒）
+Repro 株式会社 4F イベントスペース
 
-※6Fではなく4Fが会場となりますので、お間違えないようお越しくださいませ。
+![](https://raw.githubusercontent.com/reproio/repro-tech-meetup/master/assets/images/repro-eventspace.jpg)
+
+### 設備
+
+- Wi-Fi あります。
+- ディスプレイ接続用の各種アダプターの準備あります。
+- トイレは会場を出たところにあります。
+- 喫煙室は 9F にあります。
+
+### アクセス
+
+JR 代々木駅北口改札を出て目の前のビルです。
+1F にマクドナルドがあります。
+
+4F エレベータを降りて右手奥に Repro 社の入口があります。
+入っていただいて一番奥にイベントスペースがあります。
+
+![](https://raw.githubusercontent.com/reproio/repro-tech-meetup/master/assets/images/repro-access-1.png)
 
 # 受付
 
