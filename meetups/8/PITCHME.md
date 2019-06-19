@@ -24,7 +24,7 @@ tipsを共有したりディスカッションするミートアップ
 ---
 
 @snap[north]
-### サバイブしたい主催者
+### organizer
 @snapend
 
 @snap[west]
