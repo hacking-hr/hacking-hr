@@ -98,8 +98,11 @@ tipsを共有したりディスカッションするミートアップ
 
 ---
 
-## 海外採用
+# 海外採用
 
+---
+
+## 海外採用？
 - sourcing channel?
 - attract point?
 - compensation?
