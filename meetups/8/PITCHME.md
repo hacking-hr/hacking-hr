@@ -65,6 +65,7 @@ tipsを共有したりディスカッションするミートアップ
 ---
 
 ## 2019年がピーク
+![](https://github.com/hacking-hr/hacking-hr/blob/master/meetups/8/jinzai.png?raw=true)
 
 ---
 
